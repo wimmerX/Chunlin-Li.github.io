@@ -60,7 +60,7 @@ default.custom.yaml 		# 用户对全局配置的定制修改
 <方案名称>.prism.bin			# Rime 棱镜
 <词典名>.table.bin			# Rime 固态词典
 <词典名>.reverse.bin			# Rime 反查词典
-# 总之 .bin 文件都是便宜后生成的二进制文件， 我们不需要太多关注它们
+# 总之 .bin 文件都是编译后生成的二进制文件， 我们不需要太多关注它们
 
 # 记录用户输入的词典文件：
 <词典名>.userdb.kct			# 用户词典文件
